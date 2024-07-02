@@ -1,10 +1,10 @@
-# Help Me See
+# Help My Eyes
 
-## Privacy Policy for Help Me See
+## Privacy Policy for Help My Eyes App
 Effective Date: 2 July 2024
 
 ### Introduction
-Welcome to Help Me See ("we", "our", "us"). We are committed to protecting your privacy and ensuring that your personal information is secure. This Privacy Policy outlines our practices regarding the collection, use, and safeguarding of your information when you use our mobile application ("App").
+Welcome to Help My Eyes ("we", "our", "us"). We are committed to protecting your privacy and ensuring that your personal information is secure. This Privacy Policy outlines our practices regarding the collection, use, and safeguarding of your information when you use our mobile application ("App").
 
 ### Data Collection
 We do not display any advertisements in our App. The primary purpose of data collection is to enhance the functionality of the App and provide you with a personalized experience. We collect the following types of data:
@@ -15,7 +15,7 @@ We do not display any advertisements in our App. The primary purpose of data col
 All information, including your progress, notes, and settings, is stored locally on your device. This means that your data remains private and only accessible to you. We do not have access to, nor do we collect, store, or share any of this data.
 
 ### Third-Party Services
-While we strive to maintain the highest level of privacy for our users, Help Me See does use third-party services for specific functionalities, namely advertising and in-app purchases.
+While we strive to maintain the highest level of privacy for our users, Help My Eyes does use third-party services for specific functionalities, namely advertising and in-app purchases.
 
 ### Advertising
 Our App DOES NOT display advertisements served by third-party ad networks. 
@@ -36,4 +36,4 @@ using support tab from the app
 
 By using Help Me See, you agree to the terms of this Privacy Policy. If you do not agree with the terms, please do not use the App.
 
-Thank you for choosing Help Me See.
+Thank you for choosing Help My Eyes.
